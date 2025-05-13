@@ -7,6 +7,12 @@ This is my first iOS app built during the CodePath iOS101 prework.
 - Updates label text color for visibility
 - Displays a random cute cat image with every button tap 🐱
 - Fun, colorful, and interactive!
+📸 Demo
+
+![](https://i.imgur.com/TxYqSPN.gif)
+
+
+
 
 👩‍💻 Built With:
 - Swift
